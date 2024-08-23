@@ -1,0 +1,2 @@
+# StreamHive
+A streaming application
